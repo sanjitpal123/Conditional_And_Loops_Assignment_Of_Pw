@@ -1,0 +1,10 @@
+Q1: Conditional Statements
+Conditional statements in programming are used to make decisions based on a certain condition or set of conditions. They allow the execution of different code blocks depending on whether a specified condition evaluates to true or false.
+
+if (condition) {
+  // Code to be executed if the condition is true
+} else if (anotherCondition) {
+  // Code to be executed if the 'anotherCondition' is true
+} else {
+  // Code to be executed if none of the conditions are true
+}

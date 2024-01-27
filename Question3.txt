@@ -1,0 +1,35 @@
+Q3.Q3. What are loops, and what do we need them? Explain different types of loops with their syntax and
+examples.
+
+Ans:- Loops are used in programming to repeatedly execute a block of code until a certain condition is met. They help in automating repetitive tasks.
+
+for (initialization; condition; increment/decrement) {
+  // Code to be repeated
+}
+
+while (condition) {
+  // Code to be repeated
+}
+
+do {
+  // Code to be repeated
+} while (condition);
+
+
+// Example of a for loop
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+}
+
+// Example of a while loop
+let count = 1;
+while (count <= 5) {
+  console.log(count);
+  count++;
+}
+let count2 = 9;
+
+do {
+    console.log(count2);
+    count2--;
+} while (count2 >= 1);
