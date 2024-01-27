@@ -1,4 +1,4 @@
-// Q4. Generate n9mbers between any 2 given n9mbers.
+// Q4. Generate numbers between any 2 given n9mbers.
 // Ex
 // 8 onst num1 = 10
 // 8 onst num2 = 25;
